@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/furio/base30_30/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "keebs")(type "KiCad")(uri "C:/Users/furio/base30_30/keebs.pretty")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "KiCad")(uri "C:/Users/furio/base30_30/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name "kicad_lib_tmk")(type "KiCad")(uri "C:/Users/furio/base30_30/kicad_lib_tmk")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "C:/Users/furio/base30_30/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/furio/base30_30/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "C:/Users/furio/base30_30/Type-C.pretty")(options "")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "C:/Users/furio/base30_30/WS2812B.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/furio/base30_30/MX_Alps_Hybrid.pretty/MX_Only.pretty")(options "")(descr ""))
+)
